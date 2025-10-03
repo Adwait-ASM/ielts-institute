@@ -1,5 +1,3 @@
-;
-
 const testimonials = [
 	{
 		name: 'Ananya Sharma',

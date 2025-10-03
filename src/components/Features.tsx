@@ -1,5 +1,3 @@
-;
-
 const featureItems = [
 	{
 		title: 'Speaking Practice Labs',
