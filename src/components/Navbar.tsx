@@ -7,7 +7,7 @@ export function Navbar() {
 		<header className="navbar">
 			<div className="container nav-inner">
 				<div className="logo brand">
-					<img src="/logo.svg" alt="Advait IELTS logo" className="brand-mark" />
+					<img src="/ielts-institute/logo.svg" alt="Advait IELTS logo" className="brand-mark" />
 					<span className="brand-text">Advait IELTS</span>
 				</div>
 				<nav className={`nav-links ${open ? 'open' : ''}`}>

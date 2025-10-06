@@ -4,7 +4,7 @@ export function Footer() {
 			<div className="container footer-grid">
 				<div>
 					<div className="logo brand">
-						<img src="/logo.svg" alt="Advait IELTS logo" className="brand-mark" />
+						<img src="/ielts-institute/logo.svg" alt="Advait IELTS logo" className="brand-mark" />
 						<span className="brand-text">Advait IELTS</span>
 					</div>
 					<p className="muted">© {new Date().getFullYear()} Advait Institute. All rights reserved.</p>
